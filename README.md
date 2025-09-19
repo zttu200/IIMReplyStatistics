@@ -1,4 +1,6 @@
 # IIMReplyStatistics
 A statistic project with python. Showing the replies from my friends and some students to IIM in class project.
 
-To see the result, you may click on the .ipynb file in browser, or download and open the html file. the zip is markdown and it's hard to use so please don't
+To see the result, you may click on the .ipynb file in browser, or download and open the html file. 
+
+* The zip is markdown and it's hard to use so please don't
